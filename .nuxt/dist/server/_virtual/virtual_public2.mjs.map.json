@@ -1,1 +1,0 @@
-{"file":"virtual_public2.mjs","mappings":";AAAuD,MAAe,aAAA,gBAAgB,cAAc;","names":[],"sources":["../../../../virtual:public?%2FPolygon.png"],"sourcesContent":["import { publicAssetsURL } from '#internal/nuxt/paths';export default publicAssetsURL(\"/Polygon.png\")"],"version":3}

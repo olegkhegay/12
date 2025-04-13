@@ -1,1 +1,0 @@
-{"version":3,"file":"virtual_public6.mjs","sources":["../../../../virtual:public?%2FTheme.png"],"sourcesContent":["import { publicAssetsURL } from '#internal/nuxt/paths';export default publicAssetsURL(\"/Theme.png\")"],"names":[],"mappings":";AAAuD,MAAe,WAAA,gBAAgB,YAAY;"}
