@@ -1,0 +1,1 @@
+{"file":"virtual_public4.mjs","mappings":";AAAuD,MAAe,aAAA,gBAAgB,kBAAkB;","names":[],"sources":["../../../../virtual:public?%2FVector-left.png"],"sourcesContent":["import { publicAssetsURL } from '#internal/nuxt/paths';export default publicAssetsURL(\"/Vector-left.png\")"],"version":3}
